@@ -27,23 +27,3 @@ ideal_weight = ((24.9 + 18.5) / 2) * (height ** 2)
 weight_gain = ideal_weight - weight
 
 print(f"Your BMI is {bmi:.2f} and you are {weight_class}. You need to gain(loss) {weight_gain:.2f} kg to reach ideal weight.")
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# ideal_weight = ((24.9 + 18.5) / 2) * (height ** 2)
-# weight_gain = ideal_weight - weight
-
-# print(f"Your BMI is {bmi:.2f} and you are {result}. You need to gain(loss) {weight_gain:.2f} kg to reach ideal weight.")
